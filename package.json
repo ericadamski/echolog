@@ -1,0 +1,9 @@
+{
+  "name": "echolog",
+  "version": "0.0.1",
+  "description": "A tiny wrapper around console.log that returns the values passed to it",
+  "main": "index.js",
+  "repository": "git@github.com:ericadamski/echolog.git",
+  "author": "Eric Adamski <er.adamski@gmail.com>",
+  "license": "MIT"
+}
